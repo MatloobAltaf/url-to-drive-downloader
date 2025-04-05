@@ -2,6 +2,12 @@
 
 A Google Workspace app that downloads content from URLs directly to Google Drive.
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6a33ea26-9c34-4234-909c-c645f520fa9f/deploy-status)](https://app.netlify.com/sites/url-to-drive-downloader/deploys)
+
+## App Link
+
+Visit the app: [URL to Drive Downloader](https://url-to-drive-downloader.netlify.app/)
+
 ## Features
 
 - Download content from any public URL directly to your Google Drive
