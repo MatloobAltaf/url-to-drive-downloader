@@ -1,0 +1,52 @@
+Terms of Service of URL to Drive Downloader
+
+
+
+Last Updated: April 5, 2025
+
+Please read these Terms of Service ("Terms", "Terms of Service") carefully before using the URL to Drive Downloader ("app", "we", "us", "our").
+
+1. Agreement to Terms
+By using URL to Drive Downloader, you agree to be bound by these Terms. If you disagree with any part of the terms, then you may not use our app.
+
+2. Description of Service
+URL to Drive Downloader is a Google Workspace app that allows users to download content from URLs directly to their Google Drive.
+
+3. Use of Service
+You agree to use URL to Drive Downloader only for lawful purposes and in accordance with these Terms. You agree not to:
+- Use the app to download or distribute illegal, copyrighted, or unauthorized content
+- Use the app in any way that violates any applicable local, state, national, or international law or regulation
+- Attempt to interfere with, compromise the system integrity or security, or decipher any transmissions to or from the servers running the app
+- Use the app to download malicious content or content that could harm Google's systems
+- Use automated methods or scripts to access or use the app
+
+4. Google Account and API Limitations
+URL to Drive Downloader requires access to your Google Drive through Google API Services. Your use of the app is subject to Google's Terms of Service and Privacy Policy. Additionally:
+- You must have a valid Google account to use the app
+- The app is subject to Google Drive quotas and limitations
+- Google may limit, suspend, or terminate your access to Google APIs used by this app
+
+5. Intellectual Property
+The app and its original content (excluding content downloaded by users) are and will remain the exclusive property of URL to Drive Downloader and its licensors.
+
+6. Disclaimer
+YOUR USE OF THE APP IS AT YOUR SOLE RISK. THE APP IS PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS. THE APP IS PROVIDED WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED.
+
+7. Limitation of Liability
+IN NO EVENT SHALL URL TO DRIVE DOWNLOADER, ITS OFFICERS, DIRECTORS, EMPLOYEES, OR AGENTS, BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES RESULTING FROM YOUR USE OF THE APP.
+
+8. User Responsibility
+You are solely responsible for:
+- Content you download using the app
+- Ensuring you have the right to download and use such content
+- Compliance with applicable copyright and intellectual property laws
+
+9. Termination
+We may terminate or suspend your access to the app immediately, without prior notice or liability, for any reason, including without limitation if you breach the Terms.
+
+10. Changes to Terms
+We reserve the right to modify or replace these Terms at any time. It is your responsibility to review these Terms periodically for changes.
+
+11. Contact Us
+If you have any questions about these Terms, please contact us at:
+Email: matloobaltaf98@gmail.com
